@@ -1,4 +1,9 @@
-# Soccer-Match-Prediction
+# Match-Prediction
 
-Check the project demo here: https://adityakhursale-soccer-match-predi-visualizationdashboard-7f01to.streamlit.app
+## Team Members
+Aditya Khursale
+Mohammad Akram
+Tarun Krishna
+Girish Chandra Dama
+Samritha Reddy Balam
 
